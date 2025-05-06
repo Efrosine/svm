@@ -1,0 +1,21 @@
+Apple Disease Detection Model Information (v2)
+===========================================
+
+Date: 2025-05-07 01:49:28
+
+Dataset Information:
+- Training samples: 120
+- Test samples: 120
+- Features: Texture Regularity, Lesion Density (Enhanced with HSV characteristics)
+
+Feature Processing:
+- Enhanced feature extraction with HSV color variations
+- StandardScaler applied for better feature distribution
+
+Best SVM Configuration:
+- learning_rate: 0.001
+- lambda_param: 0.001
+- n_iterations: 2000
+- C: 10.0
+
+Test Accuracy: 65.83%
