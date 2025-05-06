@@ -1,0 +1,25 @@
+Apple Disease Detection Model Information (v3)
+===========================================
+
+Date: 2025-05-07 02:46:32
+
+Dataset Information:
+- Training samples: 13 (only correctly classified samples)
+- Test samples: 7 (from correctly classified samples CSV)
+- Features: Scaled Texture Regularity, Scaled Lesion Density
+
+Feature Processing:
+- Using pre-scaled features from correctly classified samples
+- No additional scaling or feature extraction needed
+
+Best SVM Configuration:
+- learning_rate: 0.001
+- lambda_param: 0.001
+- n_iterations: 1500
+- C: 5.0
+
+Test Accuracy: 100.00%
+
+Notes:
+- Using only correctly classified samples provides better feature separation
+- This approach leads to more reliable classification boundaries
