@@ -14,7 +14,7 @@ Setiap sampel memiliki 2 fitur:
 - x₁: Pola bercak/lesi (nilai lebih tinggi = pola lebih teratur/jelas)
 - x₂: Tekstur permukaan (nilai lebih tinggi = tekstur lebih halus)
 
-![Data Penyakit Apel Sebelum Hyperplane](data/apple_disease_data_before_hyperplane.png)
+![Data Penyakit Apel Sebelum Hyperplane](/data/apple_disease_data_before_hyperplane.png)
 
 ## Inisialisasi SVM
 
@@ -288,13 +288,13 @@ Proses ini berlanjut untuk semua 20 sampel dalam epoch pertama. Setelah setiap s
 2. Untuk titik yang diklasifikasikan dengan benar di luar margin, hanya pembaruan regularisasi kecil yang diterapkan
 3. Untuk pelanggaran margin, pembaruan substansial terhadap w dan b dibuat untuk mendorong hyperplane menuju klasifikasi yang lebih baik
 
-![Hasil SVM Statis Penyakit Apel](data/apple_disease_svm_static_results.png)
+![Hasil SVM Statis Penyakit Apel](/data/apple_disease_svm_static_results.png)
 
 ## Total Loss untuk Epoch Pertama
 
 Total loss untuk epoch pertama dihitung dengan menjumlahkan kontribusi loss dari semua 20 sampel.
 
-![Tabel Riwayat Iterasi](data/iteration_history_table.png)
+![Tabel Riwayat Iterasi](/data/iteration_history_table.png)
 
 ## Ringkasan Pembaruan Epoch
 

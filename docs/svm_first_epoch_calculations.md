@@ -14,7 +14,7 @@ Each sample has 2 features:
 - x₁: Lesion pattern (higher value = more regular/distinct pattern)
 - x₂: Surface texture (higher value = smoother texture)
 
-![Apple Disease Data Before Hyperplane](data/apple_disease_data_before_hyperplane.png)
+![Apple Disease Data Before Hyperplane](/data/apple_disease_data_before_hyperplane.png)
 
 ## SVM Initialization
 
@@ -288,13 +288,13 @@ This process continues for all 20 samples in the first epoch. After each sample:
 2. For correctly classified points outside the margin, only small regularization updates are applied
 3. For margin violations, substantial updates to w and b are made to push the hyperplane toward better classification
 
-![Apple Disease SVM Static Results](data/apple_disease_svm_static_results.png)
+![Apple Disease SVM Static Results](/data/apple_disease_svm_static_results.png)
 
 ## Total Loss for First Epoch
 
 The total loss for the first epoch is calculated by summing the loss contributions from all 20 samples.
 
-![Iteration History Table](data/iteration_history_table.png)
+![Iteration History Table](/data/iteration_history_table.png)
 
 ## Epoch Updates Summary
 
