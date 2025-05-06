@@ -1,0 +1,21 @@
+Texture Regularity,Lesion Density,Class,File
+7.077963609470021,11.8487548828125,apple scab,data/dataset/apple_disease/apple/apple scab/c51ed52b-7c1a-47fa-83c2-097502ee09b9___FREC_Scab 3146.JPG
+6.898968278072354,8.45703125,apple scab,data/dataset/apple_disease/apple/apple scab/670efd0e-9a5e-44db-bd5a-4ffb5c5e5a7d___FREC_Scab 3108.JPG
+6.688763521386525,7.2686767578125,apple scab,data/dataset/apple_disease/apple/apple scab/48e62e54-d02a-41bb-8486-234408706e69___FREC_Scab 3190.JPG
+6.727909049066151,8.9569091796875,apple scab,data/dataset/apple_disease/apple/apple scab/bb495423-1617-447c-95cd-52ebabee1a59___FREC_Scab 3199.JPG
+7.399884313631752,12.490234375,apple scab,data/dataset/apple_disease/apple/apple scab/0672ab32-9fce-41f3-ae69-e39c48a0a292___FREC_Scab 3347.JPG
+7.347461776672568,11.0931396484375,apple scab,data/dataset/apple_disease/apple/apple scab/4d02c4a9-4b0d-4b4b-9695-91f08228ee53___FREC_Scab 3274.JPG
+6.630620170438074,7.70263671875,apple scab,data/dataset/apple_disease/apple/apple scab/0d8d5b80-962d-4381-8d3b-9eca3f2f1bb0___FREC_Scab 3449.JPG
+7.183503491870658,8.8714599609375,apple scab,data/dataset/apple_disease/apple/apple scab/baa34f65-7a7a-4308-ad86-4fe8f0da288d___FREC_Scab 3115.JPG
+6.872049016696261,8.0108642578125,apple scab,data/dataset/apple_disease/apple/apple scab/14c623e5-051c-42f6-9e4f-f7a93e6a723c___FREC_Scab 2965.JPG
+7.110120416818633,7.6995849609375,apple scab,data/dataset/apple_disease/apple/apple scab/86054e9e-26b4-42b5-b192-58ddee7b0c34___FREC_Scab 3011.JPG
+7.442690274911517,11.6253662109375,healthy,data/dataset/apple_disease/apple/healthy/5a92a89d-a10e-423c-aed8-8505e04e15dc___RS_HL 7836.JPG
+7.361097374657541,7.261962890625,healthy,data/dataset/apple_disease/apple/healthy/d5c866b2-7eb2-421a-a42a-906308cbffb2___RS_HL 6116.JPG
+7.286059520671299,7.857666015625,healthy,data/dataset/apple_disease/apple/healthy/d3db83a2-69b7-4de2-b868-fc3f04a0bf85___RS_HL 7481.JPG
+7.452008085970347,7.47314453125,healthy,data/dataset/apple_disease/apple/healthy/98834a65-1043-4c21-b06e-5f625274b0c4___RS_HL 6267.JPG
+7.537699262897237,5.2191162109375,healthy,data/dataset/apple_disease/apple/healthy/c870969d-cf55-467f-85fe-f9752cb76ec6___RS_HL 6323.JPG
+7.161794796041072,8.7713623046875,healthy,data/dataset/apple_disease/apple/healthy/d1b50c46-7da6-4940-89e2-800d8c56c228___RS_HL 7594.JPG
+7.172491882443258,9.9688720703125,healthy,data/dataset/apple_disease/apple/healthy/dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270.JPG
+7.526172861064355,6.146240234375,healthy,data/dataset/apple_disease/apple/healthy/d321145e-6ab0-4ad2-8109-f34ee4389149___RS_HL 7848.JPG
+7.362306485909235,7.806396484375,healthy,data/dataset/apple_disease/apple/healthy/24adc938-da71-4d2a-9c7e-f2dc3a73c908___RS_HL 7307.JPG
+7.206777138675791,9.3865966796875,healthy,data/dataset/apple_disease/apple/healthy/f7416f1d-cd65-4f2e-be3e-ca701e693df5___RS_HL 7920.JPG
